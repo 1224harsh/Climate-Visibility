@@ -1,4 +1,4 @@
-# Climate-Visibility
+# Climate-Visibility-Machine Learning
 Try the app - https://test-climate-visibility.herokuapp.com/
 
 ## Problem Statement
