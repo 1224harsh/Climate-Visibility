@@ -87,8 +87,7 @@ Data Insertion in Database
 
 ## Deployment
 
-We will be deploying the model to the Heroku Web Services Platform. 
-This is a workflow diagram for the prediction of using the trained model. 
+Deploying the model to the Heroku Web Services Platform. 
 
 ## Climate Visibility folder structure
 ###### requirements.txt file consists of all the packages that you need to deploy the app in the cloud.
