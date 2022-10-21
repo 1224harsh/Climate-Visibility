@@ -1,5 +1,5 @@
 # Climate-Visibility-Machine Learning
-Try the app - https://test-climate-visibility.herokuapp.com/
+Try the app - https://cement-strengthprediction.herokuapp.com/
 
 ## Problem Statement
 To build a regression model to predict the visibility distance based on the given different climatic indicators in the training data. 
